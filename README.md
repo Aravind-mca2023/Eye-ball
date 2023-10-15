@@ -1,5 +1,10 @@
 # Eye-ball
+This Project has two eyes which follow the mouse movement. Both the eyes are synchronised to follow the directions of the mouse pointer. It looks like a person following the mouse. The mouse movement event is used to update the position of the "eye" element displayed on the page. Mouse events are a popular way to bind the DOM elements to events.
 
-It appears that your project aims to create a simple interactive animation where a pair of eyes follows the movement of the mouse cursor. This type of project is often used for fun and creative purposes, and it's a good exercise for learning about event handling in JavaScript and basic CSS animations.
+# Steps to Run the Project
+Move the mouse to observe the rotation of the eye.
+
+# Future Improvements
+This Project can be further enhanced by adding reactions related to facial reaction
 
 https://aravind-mca2023.github.io/Eye-ball/
