@@ -7,4 +7,3 @@ Move the mouse to observe the rotation of the eye.
 # Future Improvements
 This Project can be further enhanced by adding reactions related to facial reaction
 
-https://aravind-mca2023.github.io/Eye-ball/
